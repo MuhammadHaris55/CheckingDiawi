@@ -21,7 +21,7 @@ class MyHomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Center(
-      child: Text('M CHL GAE'),
+      child: Text('Checking request'),
     );
   }
 }
